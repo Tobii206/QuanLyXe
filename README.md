@@ -1,4 +1,4 @@
-# PoLoMen (2)
+# QLBanXe
 
 This is a Java Swing application that connects to a relational database (default: Microsoft SQL Server).
 
